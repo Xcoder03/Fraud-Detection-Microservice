@@ -1,4 +1,4 @@
-package com.example.Fraud.Detection.requests;
+package com.example.Fraud.Detection.Payload.requests;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
